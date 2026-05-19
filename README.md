@@ -3,6 +3,7 @@
 Sou desenvolvedor focado no desenvolvimento de aplicações web modernas utilizando o poder do ecossistema front-end clássico: HTML, CSS e JavaScript. Busco criar interfaces limpas, interativas e responsivas, focando na melhor experiência para o usuário.
 
 📬Email: ro8369994@gmail.com
+<br>
 💼LinkedIn:www.linkedin.com/in/nilton-gustavo-96a34a33b
 
  💻 Front-end Core
@@ -21,8 +22,9 @@ Sou desenvolvedor focado no desenvolvimento de aplicações web modernas utiliza
 💼 Experiência academica / Projetos
 
 Atualmente focado no desenvolvimento de projetos e aplicações web independentes, aplicando as melhores práticas do desenvolvimento front-end.
-
+<br>
 Principais atividades:
+<br>
 -Desenvolvimento de páginas e landing pages totalmente responsivas (Mobile First).
 <br>
 -Criação de componentes dinâmicos e interativos utilizando JavaScript puro (Vanilla JS).
