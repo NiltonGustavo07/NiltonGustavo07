@@ -23,6 +23,7 @@ Sou desenvolvedor focado no desenvolvimento de aplicações web modernas utiliza
 
 Atualmente focado no desenvolvimento de projetos e aplicações web independentes, aplicando as melhores práticas do desenvolvimento front-end.
 <br>
+<br>
 Principais atividades:
 <br>
 -Desenvolvimento de páginas e landing pages totalmente responsivas (Mobile First).
@@ -33,7 +34,7 @@ Principais atividades:
 <br>
 -Controle de versão e versionamento de código utilizando Git e GitHub.
 <br>
----
+
 
 🚀 Atualmente evoluindo em
 
