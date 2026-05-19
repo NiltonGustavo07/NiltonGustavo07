@@ -18,27 +18,30 @@ Sou desenvolvedor focado no desenvolvimento de aplicações web modernas utiliza
 
 
 
- 💼 Experiência academica / Projetos
+💼 Experiência academica / Projetos
 
 Atualmente focado no desenvolvimento de projetos e aplicações web independentes, aplicando as melhores práticas do desenvolvimento front-end.
 
 Principais atividades:
 -Desenvolvimento de páginas e landing pages totalmente responsivas (Mobile First).
+<br>
 -Criação de componentes dinâmicos e interativos utilizando JavaScript puro (Vanilla JS).
+<br>
 -Organização de código limpo e semântico seguindo as diretrizes de acessibilidade na web.
+<br>
 -Controle de versão e versionamento de código utilizando Git e GitHub.
-
+<br>
 ---
 
 🚀 Atualmente evoluindo em
 
  ⚡ Otimização de performance de renderização no navegador.
  <br>
- -📐 Conceitos avançados de CSS Avançado e metodologias (como BEM ou SASS).
- -♿ Acessibilidade Web e semântica profunda.
+ 📐 Conceitos avançados de CSS Avançado e metodologias (como BEM ou SASS).
+ <br>
+ ♿ Acessibilidade Web e semântica profunda.
+ <br>
 
-
-
- 🎯 Objetivo
+🎯 Objetivo
 
 Meu objetivo é continuar evoluindo como desenvolvedor web, construir aplicações cada vez mais robustas e desafiadoras, e colaborar em projetos que causem um impacto real através de código limpo e eficiente.
