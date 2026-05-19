@@ -4,7 +4,7 @@ Sou desenvolvedor focado no desenvolvimento de aplicações web modernas utiliza
 
 📬Email: ro8369994@gmail.com
 <br>
-💼LinkedIn:www.linkedin.com/in/nilton-gustavo-96a34a33b
+💼LinkedIn: www.linkedin.com/in/nilton-gustavo-96a34a33b
 
  💻 Front-end Core
 | Tecnologia | Descrição |
