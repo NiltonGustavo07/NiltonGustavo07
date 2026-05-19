@@ -5,10 +5,6 @@ Sou desenvolvedor focado no desenvolvimento de aplicações web modernas utiliza
 📬Email: ro8369994@gmail.com
 💼LinkedIn:www.linkedin.com/in/nilton-gustavo-96a34a33b
 
-
-
-🛠️ Tecnologias e Ferramentas
-
  💻 Front-end Core
 | Tecnologia | Descrição |
 | :---: | --- |
@@ -36,7 +32,8 @@ Principais atividades:
 
 🚀 Atualmente evoluindo em
 
- -⚡ Otimização de performance de renderização no navegador.
+ ⚡ Otimização de performance de renderização no navegador.
+ <br>
  -📐 Conceitos avançados de CSS Avançado e metodologias (como BEM ou SASS).
  -♿ Acessibilidade Web e semântica profunda.
 
